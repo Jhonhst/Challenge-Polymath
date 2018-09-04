@@ -1,0 +1,66 @@
+*{
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.container{
+  background-color:rgba(18, 199, 130, 0.2)
+}
+.img{
+  width: 150px;
+  height: 120px;
+  margin-left: 43%;
+  margin-bottom:-20px; 
+}
+.img:hover{
+  opacity: 0.9;
+}
+
+body{
+  background-color: rgb(255, 255, 255);
+}
+
+h4, h2{
+  margin: 10px;
+}
+h2{
+  padding-top:5px;
+}
+h1{
+   margin-bottom:25px; 
+  text-align: center;
+  background: rgb(7, 118, 192);
+  color: rgb(230, 240, 193);
+}
+
+h1:hover{
+opacity: 0.9;
+}
+
+.list-item{
+ 
+  border: 2.5px solid  rgb(255, 255, 255, 0);
+}
+
+.list-item:hover{
+  background-color:rgba(18, 199, 130, 0.2);
+}
+
+
+
+.nane{
+  font-size:20px;
+  margin-left: 5px;
+}
+.id{
+  color: red;
+}
+.level{
+  color:green;
+}
+.best{
+  color: black;
+}
+.bool{
+  color: red;
+}

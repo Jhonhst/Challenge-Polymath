@@ -1,0 +1,18 @@
+I have used the standard python library, but I have also used other libraries for a better process and management.
+
+os, to interact with the files, such as the database or the html file
+
+sys, to interact with the arguments sent through the commands
+
+requests, to make the request to the API.
+
+sqlite3, to interact with the sql database.
+
+xml.etree.ElementTree, to extract the data received from the API.
+
+
+Note: because the token given in the api example was expired, I could not download the category 
+tree and I was hard pressed to make the script, so I contacted Polymath Ventures, but I did not receive a reply,
+so I register with eBay programmers to get a test token.
+
+Without more to say, thank you very much for the opportunity to participate, I hope it is to your liking and can be selected.
